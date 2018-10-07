@@ -1,0 +1,11 @@
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/bin/Debug/netcoreapp2.1/ControllerApp.deps.json
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/bin/Debug/netcoreapp2.1/ControllerApp.runtimeconfig.json
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/bin/Debug/netcoreapp2.1/ControllerApp.runtimeconfig.dev.json
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/bin/Debug/netcoreapp2.1/ControllerApp.dll
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/bin/Debug/netcoreapp2.1/ControllerApp.pdb
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/obj/Debug/netcoreapp2.1/ControllerApp.csprojResolveAssemblyReference.cache
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/obj/Debug/netcoreapp2.1/ControllerApp.csproj.CoreCompileInputs.cache
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/obj/Debug/netcoreapp2.1/ControllerApp.AssemblyInfoInputs.cache
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/obj/Debug/netcoreapp2.1/ControllerApp.AssemblyInfo.cs
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/obj/Debug/netcoreapp2.1/ControllerApp.dll
+/Users/deshan/Documents/hobby/ProjektRacekar/ControllerApp/ControllerApp/ControllerApp/obj/Debug/netcoreapp2.1/ControllerApp.pdb
