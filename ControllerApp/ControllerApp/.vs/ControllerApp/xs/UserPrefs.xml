@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{AC520C2E-A8EF-4DB3-B860-7F02DF8165A0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ControllerApp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ControllerApp/SerialInfo.cs">
     <Files>
-      <File FileName="ControllerApp/Program.cs" Line="1" Column="1" />
+      <File FileName="ControllerApp/Program.cs" Line="3" Column="1" />
+      <File FileName="ControllerApp/SerialInfo.cs" Line="8" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
